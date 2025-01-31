@@ -1,2 +1,3 @@
 # leetcode-practice
-Leetcode practice.
+
+This is my repo for leetcode practice.
